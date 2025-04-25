@@ -112,6 +112,14 @@ Project Structure
 Outputs
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - Real-time health data streaming through Kafka
+  ![Screenshot 2025-04-18 005536](https://github.com/user-attachments/assets/0a633f4e-70e5-4cce-838b-33290f008206)
+
 - Spark Streaming with ML predictions
+  ![Screenshot 2025-04-18 005433](https://github.com/user-attachments/assets/4738219b-d4a9-48b5-9cda-b33904a30062)
+
 - Interactive dashboards in Grafana
+  ![Screenshot 2025-04-18 004424](https://github.com/user-attachments/assets/ce966123-fc61-40fe-a098-87af9453896e)
+  
 - Alerts for abnormal health values via Twilio SMS
+![WhatsApp Image 2025-04-25 at 13 43 01_ca91272a](https://github.com/user-attachments/assets/2b8e0768-ef56-44b8-b566-8b9a737e37a2)
+  
